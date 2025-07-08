@@ -8,8 +8,8 @@ This agent implements a non-linear graph with routing capabilities:
 - Text Summarizer Node: Summarizes text content  
 - Final Printer Node: Outputs results
 
-Author: [Your Name]
-Date: [Current Date]
+Author: G.THIRUMALA HEMANT KUMAR
+Date: 08-07-2025
 """
 
 from langgraph.graph import StateGraph, END
