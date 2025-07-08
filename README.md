@@ -1,4 +1,5 @@
 LangGraph + Mistral Non-Linear Agent
+
 A sophisticated non-linear agent implementation using LangGraph orchestration framework with Mistral 7B model via Ollama.
 
 🎯 Features
