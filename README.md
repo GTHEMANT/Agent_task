@@ -1,3 +1,5 @@
+
+
 LangGraph + Mistral Non-Linear Agent
 
 
@@ -23,6 +25,7 @@ Router Node: Analyzes input and determines processing path
 Math Node: Handles mathematical operations using Mistral
 Summarizer Node: Creates concise text summaries
 Final Node: Outputs results and handles fallback cases
+
 
 🚀 Quick Start
 
@@ -61,6 +64,8 @@ General: "Hello, how are you?"
 
 
 📁 Project Structure
+
+
 Agent/
 ├── agent_graph.py      
 ├── test_agent.py        
@@ -74,7 +79,7 @@ Agent/
     ├── summary_routing.png
     └── terminal_output.png
 
-    🐛 Troubleshooting
+
 Common Issues
 
 Ollama Connection Error:
