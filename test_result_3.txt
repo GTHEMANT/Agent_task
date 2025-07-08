@@ -1,0 +1,8 @@
+Test Case: General Query
+Input: Hello, how are you today?
+Route: fallback
+Processing Type: general
+Execution Time: 6.67s
+Timestamp: 2025-07-08 23:06:15
+Output: [GENERAL] General Response:
+ Hello there! I'm just a computer program, so I don't have feelings or days, but I'm functioning properly at this moment. How can I assist you today? Let's make the best out of our interaction together! 😊

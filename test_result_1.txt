@@ -1,0 +1,16 @@
+Test Case: Math Problem
+Input: What is 15 + 25 * 3?
+Route: math
+Processing Type: mathematical
+Execution Time: 16.03s
+Timestamp: 2025-07-08 23:05:12
+Output: [MATH] Math Solution:
+ To solve this problem, we follow the order of operations, which is commonly remembered by the acronym PEMDAS: Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right).
+
+Step 1: Multiply the numbers being multiplied, which are 25 and 3. That gives us 75.
+
+Step 2: Add the number that was not involved in the multiplication, which is 15.
+
+So, 15 + (25 * 3) = 15 + 75 = 90
+
+The final answer is 90.
