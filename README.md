@@ -1,8 +1,11 @@
 LangGraph + Mistral Non-Linear Agent
 
+
 A sophisticated non-linear agent implementation using LangGraph orchestration framework with Mistral 7B model via Ollama.
 
 🎯 Features
+
+
 Non-linear Graph Architecture: Intelligent routing between specialized nodes
 Mathematical Problem Solving: Dedicated math solver node for calculations
 Text Summarization: Advanced summarization capabilities
@@ -11,15 +14,19 @@ Comprehensive Logging: Detailed execution tracking
 Interactive Mode: Real-time testing and interaction
 
 🏗️ Architecture
-[User Input] → [Router Node] → [Math/Summary/Fallback] → [Final Output Node]
-Node Description:
 
+
+[User Input] → [Router Node] → [Math/Summary/Fallback] → [Final Output Node]
+
+Node Description:
 Router Node: Analyzes input and determines processing path
 Math Node: Handles mathematical operations using Mistral
 Summarizer Node: Creates concise text summaries
 Final Node: Outputs results and handles fallback cases
 
 🚀 Quick Start
+
+
 Prerequisites
 
 Python 3.10+
